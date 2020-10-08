@@ -1,0 +1,30 @@
+body{
+    background-color: lightpink;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    font-size: 4vw;
+    margin-bottom: 3%;
+}
+.register{
+    text-align: center;
+    font-size: 2vw;
+}   
+.register i{
+    position: sticky;
+    text-align: left;
+    padding: 0.8vw;
+    background-color: green;
+}
+.register input{
+    margin-bottom: 1%;
+    align-self: justify;
+}
+.register button{
+    background-color: lightblue;
+    border: none;
+    color: green;
+}
+
